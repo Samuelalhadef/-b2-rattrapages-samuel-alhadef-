@@ -11,6 +11,11 @@ Ce projet est une application web simple permettant de gérer une liste d'ingré
 - Supprimer un ingrédient de la liste
 - Sauvegarde automatique dans le localStorage
 
+## Présentation du projet
+
+Retrouvez une démonstration vidéo du projet :
+- [Présentation de l'application Liste d'Ingrédients](https://youtu.be/ld9a0WDdGhs)
+
 ## Installation
 
 ```bash
