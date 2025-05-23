@@ -15,6 +15,7 @@ Ce projet est une application web simple permettant de gérer une liste d'ingré
 
 Retrouvez une démonstration vidéo du projet :
 - [Présentation de l'application Liste d'Ingrédients](https://youtu.be/ld9a0WDdGhs)
+- [Explication du code](https://youtu.be/9xiZvhqtJZs)
 
 ## Installation
 
